@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;400&display=swap');
+
+
+*{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  font-family: Catamaran;
+}
+
+.main_title, .content {
+  align-items: center;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.content {
+  padding-left: 4%;
+}
+
+.trainings {
+  width: 100%;
+}
+.experiences {
+  width: 100%;
+}
+.skills {
+  width: 100%;
+}
+.else {
+  width: 100%;
+}
+
+.infos {
+  flex-direction: row;
+  margin: 4%;
+  width: 96%;
+}
+
+.picture {
+  align-items: flex-end;
+  justify-content: flex-end;
+  width: 60%;
+  margin-bottom: -5%;
+}
+
+span {
+  text-decoration: underline;
+}
+
+h3 {
+  width: 96%;
+  background-color: #0077aa;
+  color: white;
+  text-align: center;
+}
+
+h1, h3 {
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+p, li {
+  font-size: 0.7rem;
+}
+
+@media screen {
+
+}
