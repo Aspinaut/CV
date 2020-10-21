@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;400&display=swap');
 
-
 *{
   display: flex;
   flex-direction: column;
   margin: 0;
   padding: 0;
   font-family: Catamaran;
+  font-size: 1rem;
 }
 
 .main_title, .content {
@@ -63,8 +63,4 @@ h1, h3 {
 
 p, li {
   font-size: 0.7rem;
-}
-
-@media screen {
-
 }

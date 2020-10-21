@@ -20,7 +20,7 @@
               <p>25 ans, 03/05/1995</p>
             </div>
             <div class="picture">
-              <img src="IMG_20190403_034225.jpg" alt="" width="128px">
+              
             </div>
           </div>
           <div class="main_title">
